@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScenes.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/List_trains.unity
+    guid: 2e86e1188f7951443a9aacfefdca5628
+  - enabled: 1
+    path: Assets/Scenes/PushUp.unity
+    guid: 236260720bace0c4c9c4725b871dd6cd
+  - enabled: 1
+    path: Assets/Scenes/NarrowPushUp.unity
+    guid: a5989bc59bd7eef4b8a74fce069d4036
+  - enabled: 1
+    path: Assets/Scenes/WidePushUp.unity
+    guid: eeb443ca4db153a46bceeb6007409b6a
+  - enabled: 1
+    path: Assets/Scenes/JumpPushUp.unity
+    guid: b3f88000c307fe04a8090c98f1f8b626
+  - enabled: 1
+    path: Assets/Scenes/Berpy.unity
+    guid: 8ba58d7cb9f6cef4fa69134804d8d4f9
+  - enabled: 1
+    path: Assets/Scenes/Superman.unity
+    guid: 7e7022cf6ff4fc746abde5756d756e90
+  - enabled: 1
+    path: Assets/Scenes/Swimming.unity
+    guid: 6a28723d793196543a67ad0e57a8346f
+  - enabled: 1
+    path: Assets/Scenes/Boat.unity
+    guid: 175341d0cd88b9d4ab044c56c81b7470
+  - enabled: 1
+    path: Assets/Scenes/Cat.unity
+    guid: e8f44175f57043f43baf7632e9b34361
+  - enabled: 1
+    path: Assets/Scenes/Plank 1.unity
+    guid: e95702e75437d674597135de59a7be69
+  - enabled: 1
+    path: Assets/Scenes/Crawling.unity
+    guid: 0d1324d6e611a434799165a53b51ca33
+  - enabled: 1
+    path: Assets/Scenes/PlankShoulders.unity
+    guid: 9a17358ebce3881478d2dbe50b7c1713
+  - enabled: 1
+    path: Assets/Scenes/PikeWalk.unity
+    guid: b55c1da843a91f8499dee3e19e23d25f
+  - enabled: 1
+    path: Assets/Scenes/Twisting.unity
+    guid: 205ffbc1b503739459d2a16e08a6f25d
+  - enabled: 1
+    path: Assets/Scenes/HalfTwists.unity
+    guid: c69ef3f51e3e8c64aaf0f50e7e1106e0
+  - enabled: 1
+    path: Assets/Scenes/Bike.unity
+    guid: 49710babc4128c24db0e257ffd1dd274
+  - enabled: 1
+    path: Assets/Scenes/PressClass.unity
+    guid: a95d770bac3c5fd428d3af8003920718
+  - enabled: 1
+    path: Assets/Scenes/Squats.unity
+    guid: 0b50db8e517bf8c41ae51167e89c7b70
+  - enabled: 1
+    path: Assets/Scenes/RunOnSeat.unity
+    guid: 6eb71762dfe4b614e845de75ccea7d3f
+  - enabled: 1
+    path: Assets/Scenes/Lunges.unity
+    guid: dfd4ca08b81dcd947967f1169813abaf
+  - enabled: 1
+    path: Assets/Scenes/JumpFromPrided.unity
+    guid: 5da27da4fd9a1b644b41a9a030efb5f2
+  - enabled: 1
+    path: Assets/Scenes/JumpOnSeat.unity
+    guid: 4f9c3c333c63a474dbd7aa4979da1778
+  - enabled: 1
+    path: Assets/Scenes/sesion/Breast/PushUp_sesion_breast.unity
+    guid: 7b4ecd74628d3164a97e31fb36da6ab0
+  - enabled: 1
+    path: Assets/Scenes/listActive.unity
+    guid: e02d72aa79549aa4586759f4c6b71d08
+  - enabled: 1
+    path: Assets/Scenes/sesion/StartSesion/BreastStart.unity
+    guid: c72a3abdae4feef4b8d2b2b49aa2f145
+  - enabled: 1
+    path: Assets/Scenes/sesion/StartSesion/PressStart.unity
+    guid: d45405525e0b6eb4f8ede943a9031171
+  - enabled: 1
+    path: Assets/Scenes/sesion/StartSesion/LegsStart.unity
+    guid: 77448dfc50b48ce43ad7c6cbc2f2f84d
+  - enabled: 1
+    path: Assets/Scenes/sesion/StartSesion/ShouldersStart.unity
+    guid: bf4d7153b8ec0e640bbb72cb0cb09aae
+  - enabled: 1
+    path: Assets/Scenes/sesion/StartSesion/HandsStart.unity
+    guid: b4836a71cdf5e224f9fc99db15f75990
+  - enabled: 1
+    path: Assets/Scenes/sesion/StartSesion/BackStart.unity
+    guid: aebfd11e6a4077a4a9f1a04b3cf023a1
+  - enabled: 1
+    path: Assets/Scenes/sesion/Breast/NarrowPushUps_sesion_breast.unity
+    guid: f31b31cae70eb7840a52629a7dcf160a
+  - enabled: 1
+    path: Assets/Scenes/sesion/Breast/WidePushUp_sesion_breast.unity
+    guid: 518ded55129824f43ae10bb9258f559a
+  - enabled: 1
+    path: Assets/Scenes/sesion/Breast/Week_sesion_Breast.unity
+    guid: 30e847fc2c621114ca98e2f618118ea2
+  - enabled: 1
+    path: Assets/Scenes/sesion/Breast/JumpPush_sesion_Breast.unity
+    guid: 6a500c9d8a69cca40bf31906300e34e2
+  - enabled: 1
+    path: Assets/Scenes/sesion/Breast/Berpy_sesion_Breast.unity
+    guid: 499ae12c29a95624c95f8c3fd8f57c3f
+  - enabled: 1
+    path: Assets/Scenes/sesion/Breast/Final_sesion_Breast.unity
+    guid: 5f382545b5fd00040b42e5939b1d1db4
+  - enabled: 1
+    path: Assets/Scenes/sesion/Back/Superman_sesion_back.unity
+    guid: 09877cd61f1666b42bd861e72188bb4a
+  - enabled: 1
+    path: Assets/Scenes/sesion/Back/Swimming_sesion_back.unity
+    guid: 476f968ee1578014bac297b422adb64d
+  - enabled: 1
+    path: Assets/Scenes/sesion/Back/Boat_sesion_back.unity
+    guid: 3ec82627bc7cd1e4e8d1e87feb656dec
+  - enabled: 1
+    path: Assets/Scenes/sesion/Back/Week_sesion_back.unity
+    guid: 76623ab58abbb09408c9145bdd4e0c4a
+  - enabled: 1
+    path: Assets/Scenes/sesion/Back/Cat_sesion_back.unity
+    guid: 355858da1b5b8864e9e71320d7828758
+  - enabled: 1
+    path: Assets/Scenes/sesion/Back/JumpPush_sesion_back.unity
+    guid: 6a5ec5e6cae53f44aa71f8d446544049
+  - enabled: 1
+    path: Assets/Scenes/sesion/Back/Final_sesion_back.unity
+    guid: 1e257aa8e6b5ea54d938ec1a2550b3cc
+  - enabled: 1
+    path: Assets/Scenes/sesion/Hands/Faling_sesion_hands.unity
+    guid: d2bb64c4bc3d22749bcc2662e6e7ee71
+  - enabled: 1
+    path: Assets/Scenes/sesion/Hands/Plank_sesion_hands.unity
+    guid: a7bffc79d10470d4fa605b58fd3a4002
+  - enabled: 1
+    path: Assets/Scenes/sesion/Hands/JumpPush_sesion_hands.unity
+    guid: 793856991f66324438845f2593880db5
+  - enabled: 1
+    path: Assets/Scenes/sesion/Hands/Week_sesion_hands.unity
+    guid: e885f73e2c6406a47b4407aec897a667
+  - enabled: 1
+    path: Assets/Scenes/sesion/Hands/Plank2_sesion_hands.unity
+    guid: 1ca9f5ce8150add4892a05d81b69090e
+  - enabled: 1
+    path: Assets/Scenes/sesion/Hands/NarrowPushUps_sesion_hands.unity
+    guid: 8c79c9bca4e0d2842bf2742cd030c596
+  - enabled: 1
+    path: Assets/Scenes/sesion/Hands/Final_sesion_hands.unity
+    guid: 8be4035fbccd67a4e865353d6022747c
+  - enabled: 1
+    path: Assets/Scenes/sesion/Shoulders/PlankShed_sesion_shoulders.unity
+    guid: c67faa756dd152f439d140ec0acc850d
+  - enabled: 1
+    path: Assets/Scenes/sesion/Shoulders/PikeWalk_sesion_shoulders.unity
+    guid: a8422145904647d4e9561d642459180d
+  - enabled: 1
+    path: Assets/Scenes/sesion/Shoulders/Plank_sesion_shoulders.unity
+    guid: b7d51579d70d97946859d7cf78f7f952
+  - enabled: 1
+    path: Assets/Scenes/sesion/Shoulders/Week_sesion_shoulders.unity
+    guid: dce9037723683584e8052fae8f9f5117
+  - enabled: 1
+    path: Assets/Scenes/sesion/Shoulders/PushUp_sesion_shoulders.unity
+    guid: 35ede5a88607fd8449350a6a363f8e23
+  - enabled: 1
+    path: Assets/Scenes/sesion/Shoulders/JumpPush_sesion_shoulders.unity
+    guid: 87e73fe2598430948955fb81cbab71a6
+  - enabled: 1
+    path: Assets/Scenes/sesion/Shoulders/Final_sesion_shoulders.unity
+    guid: 65bdbbcad93809b44acf16013fbee8cb
+  - enabled: 1
+    path: Assets/Scenes/sesion/Press/CirclPress_sesion_press.unity
+    guid: 72cc196cc6be141479d3b028bca9c44c
+  - enabled: 1
+    path: Assets/Scenes/sesion/Press/Poluscruch_sesion_press.unity
+    guid: 46c2219b4fef5534dbe24bfa3eec3dda
+  - enabled: 1
+    path: Assets/Scenes/sesion/Press/Bike_sesion_press.unity
+    guid: 036e405a695e0ca409f05bb6bc64e38f
+  - enabled: 1
+    path: Assets/Scenes/sesion/Press/Week_sesion_press.unity
+    guid: 65cadf3281ef7ab4a915d0973bed66fc
+  - enabled: 1
+    path: Assets/Scenes/sesion/Press/Plank_sesion_press.unity
+    guid: f4ef3dd1b2de88942a567145b7437d48
+  - enabled: 1
+    path: Assets/Scenes/sesion/Press/Classscruch_sesion_press.unity
+    guid: 19f5367731014cc4384c917f4d4dd43d
+  - enabled: 1
+    path: Assets/Scenes/sesion/Press/Final_sesion_press.unity
+    guid: 1ebd69d7ecf0a5f449d2112a24a95759
+  - enabled: 1
+    path: Assets/Scenes/sesion/Legs/Squats_sesion_legs.unity
+    guid: 58a13e5b629564040acf00643f5bc1f8
+  - enabled: 1
+    path: Assets/Scenes/sesion/Legs/RunOnSeat_sesion_Legs.unity
+    guid: ca0a610159f2e9b41916c32fa4d1f603
+  - enabled: 1
+    path: Assets/Scenes/sesion/Legs/Lunges_sesion_legs.unity
+    guid: 9fe99deaf88af824fa3b1b408fb356e6
+  - enabled: 1
+    path: Assets/Scenes/sesion/Legs/Week_sesion_legs.unity
+    guid: 267aaf3bdc336e246a1bacca19832e3d
+  - enabled: 1
+    path: Assets/Scenes/sesion/Legs/JumpOfprided_sesion_Legs.unity
+    guid: 67db836bc1340fb40acfa1fe9533c9f0
+  - enabled: 1
+    path: Assets/Scenes/sesion/Legs/JumpOnSeat_sesion_Legs.unity
+    guid: 735f9f5b9600b3142a8c8db24593a254
+  - enabled: 1
+    path: Assets/Scenes/sesion/Legs/Final_sesion_Legs.unity
+    guid: a805a39205962034e99212169d43e9b3
+  - enabled: 1
+    path: Assets/Scenes/settings.unity
+    guid: 5b30c1a8240ae894ba15798e417d632a
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 88938f656f5937b479b35c55cbb32af4, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: b5d4054fea32a3441bf90ef85b4aae80, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 2407fedebcb125e4cabdf5e602e5239c, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

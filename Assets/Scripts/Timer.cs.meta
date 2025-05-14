@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 0ae392df589f1e8439316f88b61b2776
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212589
+  packageName: Timers Made Easy Lite
+  packageVersion: 1.0.0
+  assetPath: Assets/GolemiteGames/TimersMadeEasyLite/Scripts/Timer.cs
+  uploadId: 478131
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - standardText: {instanceID: 0}
+  - textMeshProText: {instanceID: 0}
+  - standardSlider: {instanceID: 0}
+  - dialSlider: {instanceID: 0}
+  - hoursSlider: {fileID: 1105146643788578550, guid: 317c73bc0981fcb4e9dddebf0ccada7b, type: 3}
+  - minutesSlider: {fileID: 1866912298703466512, guid: ed825740a93065d47a17e2611a078306, type: 3}
+  - secondsSlider: {fileID: 715584441131624565, guid: 4dc9ac8a783b70f41a6403c2522280d2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
