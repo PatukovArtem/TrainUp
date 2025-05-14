@@ -18,9 +18,7 @@
 
 # Скриншоты проекта
 
-![image](https://github.com/user-attachments/assets/7358e70a-9b11-4261-8a2a-3563b90a7c31)
-![image](https://github.com/user-attachments/assets/b3569b59-9f0e-483f-b9d5-24be52634db3)
-![image](https://github.com/user-attachments/assets/c6b63268-2a0d-4e55-9c40-7be2ee426de6)
-![image](https://github.com/user-attachments/assets/4a0caf50-9a34-468b-8f92-547210ffaa77)
-![image](https://github.com/user-attachments/assets/64d6fa52-5b16-4ae2-ba99-2eaa8f78cd63)
-![image](https://github.com/user-attachments/assets/31c571cf-fe29-47d2-99e6-0302fed35e1d)
+![image](https://github.com/user-attachments/assets/2e83cd98-cfcd-4e04-b3d0-735bb8025424)
+![image](https://github.com/user-attachments/assets/957cb495-8af4-4c19-a09e-9b0b68411ed8)
+![image](https://github.com/user-attachments/assets/838bb6c0-4bfa-412c-8fc1-0dc09eda12c8)
+![image](https://github.com/user-attachments/assets/6f98b02e-f21d-43ec-a4ba-2d38c5cf2ee8)
